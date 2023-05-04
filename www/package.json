@@ -40,7 +40,7 @@
     "ember-export-application-global": "^1.1.1",
     "ember-highcharts": "^3.2.1",
     "ember-inflector": "4.0.2",
-    "ember-intl": "2.33.4",
+    "ember-intl": "5.7.2",
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^10.0.0",
     "ember-welcome-page": "^7.0.1",
